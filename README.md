@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 This is the new blog project
+check the remote commit notification
